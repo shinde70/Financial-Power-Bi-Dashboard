@@ -3,8 +3,6 @@
 
 **A Power BI dashboard to monitor and analyze financial metrics, providing actionable insights for effective financial decision-making.**
 
-![Dashboard Image](link-to-dashboard-image)
-
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Data Sources](#data-sources)
